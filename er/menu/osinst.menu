@@ -16,6 +16,12 @@ MENU INCLUDE er/menu/shared/line.module
 # ------====> VMware Loader <====------
 MENU INCLUDE er/plugins/vmware/vmware.menu
 
+# ------====> Proxmox Loader <====------
+MENU INCLUDE er/plugins/proxmox/proxmox.menu
+
+# ------====> NetBoot.xyz Loader <====------
+MENU INCLUDE er/plugins/netboot.xyz/netbootxyz.menu
+
 # ------====> Separator <====------
 MENU INCLUDE er/menu/shared/separator.module
 
@@ -45,6 +51,9 @@ MENU INCLUDE er/plugins/mandriva/mandriva.menu
 
 # ------====> OpenSUSE Loader <====------
 MENU INCLUDE er/plugins/opensuse/opensuse.menu
+
+# ------====> OpenBSD Loader <====------
+MENU INCLUDE er/plugins/openbsd/openbsd.menu
 
 # ------====> Scientific Linux Loader <====------
 MENU INCLUDE er/plugins/scilinux/scilinux.menu
