@@ -43,6 +43,9 @@ MENU INCLUDE er/plugins/freebsd/freebsd.menu
 # ------====> Gentoo Loader <====------
 MENU INCLUDE er/plugins/gentoo/gentoo.menu
 
+# ------====> Kali Loader <====------
+MENU INCLUDE er/plugins/kali/kali.menu
+
 # ------====> Mageia Loader <====------
 MENU INCLUDE er/plugins/mageia/mageia.menu
 

@@ -19,9 +19,6 @@ MENU INCLUDE er/plugins/avg/avg.menu
 # ------====> BackBox Linux <====------
 MENU INCLUDE er/plugins/backbox/backbox.menu
 
-# ------====> BackTrack Linux <====------
-MENU INCLUDE er/plugins/backtrack/backtrack.menu
-
 # ------====> Beini Linux <====------
 MENU INCLUDE er/plugins/beini/beini.menu
 
@@ -37,9 +34,6 @@ MENU INCLUDE er/plugins/dban/dban.menu
 # ------====> DEFT Linux <====------
 MENU INCLUDE er/plugins/deft/deft.menu
 
-# ------====> DEFT Zero Linux <====------
-MENU INCLUDE er/plugins/deftz/deftz.menu
-
 # ------====> FCCU Linux <====------
 MENU INCLUDE er/plugins/fccu/fccu.menu
 
@@ -48,6 +42,9 @@ MENU INCLUDE er/plugins/helix/helix.menu
 
 # ------====> Inside Security <====------
 MENU INCLUDE er/plugins/insert/insert.menu
+
+# ------====> Kali <====------
+MENU INCLUDE er/plugins/kali-live/kali-live.menu
 
 # ------====> Lightweight Portable Security <====------
 MENU INCLUDE er/plugins/lps/lps.menu
